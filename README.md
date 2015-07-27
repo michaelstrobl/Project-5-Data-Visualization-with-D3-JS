@@ -13,7 +13,7 @@ Description of the Dataset: http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataS
 
 First, the Dataset is converted to a CSV file with Excel. Second, the Dataset is converted to a new one with only the relevant Variables.
 
-Used Python Code for Conversion: “Dataset Conversion/titanic_csv_changer.py”
+Used Python Code for Conversion: “Datasets/titanic_csv_changer.py”
 
 Now the Dataset is reduced to:
 
@@ -44,6 +44,9 @@ In the top right of each graph, you can see the legend which indicates the survi
 4. Feedback
 
 4.1 R Plots
+
+Used Code: 'R Plots/plots.R'
+Visible in: 'R Plots/R Plots.pdf'
 
 Colors are too bright
   -> will be changed later
