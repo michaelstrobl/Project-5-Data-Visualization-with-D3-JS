@@ -3,7 +3,7 @@ Project 5: Data Visualization with D3.js
 Survivors of the Titanic
 ==============
 by: Michael Strobl, Nanodegree Data Analyst November Cohort
-==============
+--------------
 
 1. Dataset
 --------------
