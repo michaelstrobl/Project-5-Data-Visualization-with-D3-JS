@@ -52,21 +52,21 @@ In the top right of each graph, you can see the legend which indicates the survi
 Used Code: 'R Plots/plots.R'
 Visible in: 'R Plots/R Plots.pdf'
 
-Colors are too bright
+- Colors are too bright
   -> will be changed later
-Nice Overview
-No Title or Y-Axis labelled
+- Nice Overview
+- No Title or Y-Axis labelled
   -> will be changed later
 
 4.2 index1.html
 
-Embarked NA values in Plot 4should be removed
+- Embarked NA values in Plot 4should be removed
 	->  new CSV File (‘titanic_full.csv’) created where the two Embarked NA are 		removed manually
-Colors: Survived people are red, while perished ones are blue. Makes no sense.
+- Colors: Survived people are red, while perished ones are blue. Makes no sense.
 	-> New Colors where survived people are lightblue and perished ones are lightred
-X-Axis in Plot 2 should be sorted
+- X-Axis in Plot 2 should be sorted
 	-> X-Axis sorted in Plot 2
-Data Labels in the Stacked Bar would be nicer for overview
+- Data Labels in the Stacked Bar would be nicer for overview
 	-> Data Labels included
 
 
