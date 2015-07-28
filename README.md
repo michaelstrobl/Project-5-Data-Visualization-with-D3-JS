@@ -6,6 +6,7 @@ by: Michael Strobl, Nanodegree Data Analyst November Cohort
 
 
 1. Dataset
+==============
 
 The used Dataset: http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic3.xls
 
@@ -42,7 +43,7 @@ When you hover over a stacked bar, you get also the related information.
 In the top right of each graph, you can see the legend which indicates the survival status of a group.
 
 4. Feedback
-
+==============
 4.1 R Plots
 
 Used Code: 'R Plots/plots.R'
