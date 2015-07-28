@@ -6,7 +6,7 @@ by: Michael Strobl, Nanodegree Data Analyst November Cohort
 
 
 1. Dataset
-==============
+--------------
 
 The used Dataset: http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic3.xls
 
@@ -28,11 +28,13 @@ Variables:
 - Embarked: Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
 
 2. Summary
+--------------
 
 The Titanic was the biggest passenger liner in the world and it sunk during its first ride where 1500 of 2200 passengers died. In the Data Visualization, you can see that certain parameters gave the passengers better chances of survival.
 More People in Class 1 or Class 2 have survived than in Class 3 and people who embarked in Southampton than in the other two harbors. Additionally, women and children (below age of 14) survived rather than men and older people.
 
 3. Design
+--------------
 
 I used stacked Bar Charts for this Data Visualization. It allows to represent different groups on top of each other and it’s good for comparison. Additionally, I added the Data Labels inside each of the stacked bars. For example, the values of 123 and 200 inside the first bar of Chart 1: It means that 123 people of Class 1 survived while 200 people of Class 1 died.
 
@@ -43,7 +45,8 @@ When you hover over a stacked bar, you get also the related information.
 In the top right of each graph, you can see the legend which indicates the survival status of a group.
 
 4. Feedback
-==============
+--------------
+
 4.1 R Plots
 
 Used Code: 'R Plots/plots.R'
@@ -69,6 +72,7 @@ Data Labels in the Stacked Bar would be nicer for overview
 
 
 5. Resources
+--------------
 
 http://www.perceptualedge.com/articles/visual_business_intelligence/rules_for_using_color.pdf
 
