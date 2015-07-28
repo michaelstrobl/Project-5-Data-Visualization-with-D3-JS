@@ -62,7 +62,7 @@ Visible in: 'R Plots/R Plots.pdf'
 
 4.2 index1.html
 
-- Embarked NA values in Plot 4should be removed
+- Embarked NA values in Plot 4 should be removed
 	->  new CSV File (‘titanic_full.csv’) created where the two Embarked NA are 		removed manually
 - Colors: Survived people are red, while perished ones are blue. Makes no sense.
 	-> New Colors where survived people are lightblue and perished ones are lightred
